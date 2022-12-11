@@ -15,6 +15,12 @@ Fyrsta sem ég gerði var að kynna sér matrix led skjáinn, en komu upp margar
 ![mynd4](IMG_4420.JPG)
 ![mynd5](IMG_4421.JPG)
 
+# Rafrásteikning
+
+![rafrasteikning](circuit.png)
+
+
+
 
 # Libraries sem ég notaði
 > Processing
