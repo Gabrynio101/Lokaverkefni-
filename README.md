@@ -19,8 +19,9 @@ Fyrsta sem ég gerði var að kynna sér matrix led skjáinn, en komu upp margar
 
 ![rafrasteikning](circuit.png)
 
+# Kerfisskýringarmynd
 
-
+![Kerfisskyringarmynd](net.png)
 
 # Libraries sem ég notaði
 > Processing
